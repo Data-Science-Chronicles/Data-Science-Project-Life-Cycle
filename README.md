@@ -19,7 +19,7 @@ After the data is prepared, the next step is to select and evaluate models for t
 ## Optimization and Interpretation (O & I): 
 Once a model is selected, the next step is to optimize it, by tuning the parameters and feature selection. The model results should be interpreted in the context of the problem, and should be reported in a way that is easy to understand for the target audience.
 
-## Deployment (D): 
+## Deployment and Monitoring (D): 
 The final step is to deploy the model into a production environment, where it can be used to make predictions or generate insights. This step also includes monitoring the model performance and updating it when necessary.
 
 The acronym for this process is **PDEC-ME-OI-D** , pronounced as "peed-me-oy-dee" which stands for Problem Definition, Data Acquisition, Exploration and Cleaning, Preparation and Feature Engineering, Model selection and Evaluation, Optimization and Interpretation, and Deployment.
