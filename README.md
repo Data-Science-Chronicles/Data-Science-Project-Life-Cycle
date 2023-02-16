@@ -22,7 +22,7 @@ Once a model is selected, the next step is to optimize it, by tuning the paramet
 ## Deployment and Monitoring (D): 
 The final step is to deploy the model into a production environment, where it can be used to make predictions or generate insights. This step also includes monitoring the model performance and updating it when necessary.
 
-The acronym for this process is **PDEC-ME-OI-D** , pronounced as "peed-me-oy-dee" which stands for Problem Definition, Data Acquisition, Exploration and Cleaning, Preparation and Feature Engineering, Model selection and Evaluation, Optimization and Interpretation, and Deployment.
+The acronym for this process is **PDEC-ME-OI-D** , pronounced as **"peed-me-oy-dee"** which stands for Problem Definition, Data Acquisition, Exploration and Cleaning, Preparation and Feature Engineering, Model selection and Evaluation, Optimization and Interpretation, and Deployment.
 
 It's worth noting that the specific steps and the tools used in a data science project can vary depending on the problem, the data, and the goals of the analysis. The process can also be iterative, with steps being repeated or modified as necessary to improve the results.
 
